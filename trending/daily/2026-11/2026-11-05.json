@@ -6,193 +6,193 @@
     "all"
   ],
   "count": 15,
-  "degraded": true,
-  "contentHash": "sha256:56d949cc7fe347e98352c7e83d835e1ef6642d2f6b45b13f5e390c8a24a338c6",
+  "degraded": false,
+  "contentHash": "sha256:55960a846392d1edf37c491f13f03a7c53e9fc42c18d42c937b8fafc30d7250e",
   "contentHashAlgo": "jcs-sha256-v1",
   "coreVersion": "0.10.0",
-  "generatedAt": "2026-11-05T15:13:55.2120482Z",
+  "generatedAt": "2026-11-05T15:17:38.1834554Z",
   "repos": [
     {
       "fullName": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "python",
-      "stars": 6657,
+      "stars": 6663,
       "starsInPeriod": 2707,
       "forks": 522,
       "rank": 1,
       "source": "trending-html",
-      "summaryZh": "[原文] Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "summarySource": "original"
+      "summaryZh": "面向 LLM 与 Agent 工作流的 Python 框架，在数据之上构建语义图推理层，支持确定性查询生成与可解释上下文检索。",
+      "summarySource": "model"
     },
     {
       "fullName": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "shell",
-      "stars": 314499,
+      "stars": 314503,
       "starsInPeriod": 2053,
       "forks": 26350,
       "rank": 2,
       "source": "trending-html",
-      "summaryZh": "[原文] Skills for Real Engineers. Straight from my .agents directory.",
-      "summarySource": "original"
+      "summaryZh": "面向工程师的技能集合，源自作者的 Agent 配置目录，以 Shell 脚本形式提供。",
+      "summarySource": "model"
     },
     {
       "fullName": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "typescript",
-      "stars": 139724,
+      "stars": 139726,
       "starsInPeriod": 608,
-      "forks": 20670,
+      "forks": 20671,
       "rank": 3,
       "source": "trending-html",
-      "summaryZh": "[原文] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "summarySource": "original"
+      "summaryZh": "基于 Claude Code 的 23 个有主见工具集，模拟 CEO、设计师、工程经理等角色，辅助开发流程。",
+      "summarySource": "model"
     },
     {
       "fullName": "Usagi-org/ai-goofish-monitor",
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "language": "python",
-      "stars": 17401,
+      "stars": 17404,
       "starsInPeriod": 242,
       "forks": 2934,
       "rank": 4,
       "source": "trending-html",
-      "summaryZh": "[原文] 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "summarySource": "original"
+      "summaryZh": "基于 Playwright 与 AI 的闲鱼商品监控系统，支持多任务实时与定时抓取，提供后台管理界面与智能分析。",
+      "summarySource": "model"
     },
     {
       "fullName": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "python",
-      "stars": 97548,
+      "stars": 97554,
       "starsInPeriod": 1661,
-      "forks": 10222,
+      "forks": 10223,
       "rank": 5,
       "source": "trending-html",
-      "summaryZh": "[原文] 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "summarySource": "original"
+      "summaryZh": "Python Web 抓取框架，支持从单次请求到大规模站点爬取的完整流程。",
+      "summarySource": "model"
     },
     {
       "fullName": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "rust",
-      "stars": 16341,
+      "stars": 16344,
       "starsInPeriod": 2173,
       "forks": 1144,
       "rank": 6,
       "source": "trending-html",
-      "summaryZh": "[原文] Computer use CLI for AI agents",
-      "summarySource": "original"
+      "summaryZh": "面向 AI Agent 的计算机操作命令行工具，使用 Rust 编写。",
+      "summarySource": "model"
     },
     {
       "fullName": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "rust",
-      "stars": 11359,
+      "stars": 11360,
       "starsInPeriod": 546,
       "forks": 427,
       "rank": 7,
       "source": "trending-html",
-      "summaryZh": "[原文] Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "summarySource": "original"
+      "summaryZh": "Git 工作树管理命令行工具，专为并行 AI Agent 工作流设计，使用 Rust 开发。",
+      "summarySource": "model"
     },
     {
       "fullName": "lz4/lz4",
       "url": "https://github.com/lz4/lz4",
       "description": "Extremely Fast Compression algorithm",
       "language": "c",
-      "stars": 12265,
+      "stars": 12267,
       "starsInPeriod": 16,
       "forks": 1631,
       "rank": 8,
       "source": "trending-html",
-      "summaryZh": "[原文] Extremely Fast Compression algorithm",
-      "summarySource": "original"
+      "summaryZh": "C 语言实现的极快压缩算法，适用于对速度敏感的数据压缩场景。",
+      "summarySource": "model"
     },
     {
       "fullName": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "python",
-      "stars": 22172,
+      "stars": 22174,
       "starsInPeriod": 199,
       "forks": 1883,
       "rank": 9,
       "source": "trending-html",
-      "summaryZh": "[原文] Agent Skills for Google products and technologies",
-      "summarySource": "original"
+      "summaryZh": "面向 Google 产品与技术的 Agent 技能集合，使用 Python 实现。",
+      "summarySource": "model"
     },
     {
       "fullName": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "rust",
-      "stars": 45682,
+      "stars": 45685,
       "starsInPeriod": 181,
       "forks": 3138,
       "rank": 10,
       "source": "trending-html",
-      "summaryZh": "[原文] Browser automation CLI for AI agents",
-      "summarySource": "original"
+      "summaryZh": "面向 AI Agent 的浏览器自动化命令行工具，使用 Rust 编写。",
+      "summarySource": "model"
     },
     {
       "fullName": "scenario-labs/skills",
       "url": "https://github.com/scenario-labs/skills",
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "language": "python",
-      "stars": 2834,
+      "stars": 2840,
       "starsInPeriod": 674,
       "forks": 260,
       "rank": 11,
       "source": "trending-html",
-      "summaryZh": "[原文] Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "summarySource": "original"
+      "summaryZh": "面向AI代理的多媒体生成技能集，自动选择模型并预估成本，通过MCP保持角色品牌一致性，支持Blender、Maya等工具。",
+      "summarySource": "model"
     },
     {
       "fullName": "ConardLi/garden-skills",
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "javascript",
-      "stars": 14005,
+      "stars": 14006,
       "starsInPeriod": 181,
       "forks": 1639,
       "rank": 12,
       "source": "trending-html",
-      "summaryZh": "[原文] ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "summarySource": "original"
+      "summaryZh": "开源技能集合，涵盖网页设计、知识检索、图像生成等多类功能模块。",
+      "summarySource": "model"
     },
     {
       "fullName": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "python",
-      "stars": 55499,
+      "stars": 55502,
       "starsInPeriod": 214,
       "forks": 6249,
       "rank": 13,
       "source": "trending-html",
-      "summaryZh": "[原文] Open-Source Frontier Voice AI",
-      "summarySource": "original"
+      "summaryZh": "开源前沿语音AI，提供语音合成与语音交互能力。",
+      "summarySource": "model"
     },
     {
       "fullName": "floci-io/floci",
       "url": "https://github.com/floci-io/floci",
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "java",
-      "stars": 30107,
+      "stars": 30110,
       "starsInPeriod": 784,
       "forks": 3313,
       "rank": 14,
       "source": "trending-html",
-      "summaryZh": "[原文] Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "summarySource": "original"
+      "summaryZh": "轻量免费的AWS本地模拟器替代方案，用于在本地模拟AWS云服务环境。",
+      "summarySource": "model"
     },
     {
       "fullName": "JiaFeiMiao-K-Cat/DiscImageStudio",
@@ -203,8 +203,8 @@
       "forks": 251,
       "rank": 15,
       "source": "trending-html",
-      "summaryZh": "[原文] (无描述)",
-      "summarySource": "original"
+      "summaryZh": "C#开发的光盘映像工具，用于创建和管理光盘镜像文件。",
+      "summarySource": "model"
     }
   ]
 }
